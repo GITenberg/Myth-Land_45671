@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36841
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Edward_Hulme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45671#Myth-Land
 gutenberg_issued: '2014-05-17'
 gutenberg_type: Text
 identifiers:
